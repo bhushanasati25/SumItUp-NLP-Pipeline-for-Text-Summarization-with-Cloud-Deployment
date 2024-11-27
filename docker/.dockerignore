@@ -1,0 +1,14 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs
+logs/
+
+# Ignore model checkpoints if not needed
+models/fine_tuned/checkpoints/
+
+# Ignore Jupyter Notebook checkpoints
+notebooks/.ipynb_checkpoints/
