@@ -80,8 +80,8 @@ Text-Summarization-NLP-Project/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/Text-Summarization-NLP-Project.git
-cd Text-Summarization-NLP-Project
+git clone https://github.com/bhushanasati25/SumItUp-NLP-Pipeline-for-Text-Summarization-with-Cloud-Deployment.git
+cd SumItUp-NLP-Pipeline-for-Text-Summarization-with-Cloud-Deployment
 ```
 
 ### **2. Install Dependencies**
@@ -160,8 +160,7 @@ Bob agrees to help Alice with her calculus homework after lunch.
 ---
 
 ## **Contributors**
-- **Your Name** (Project Lead)
-- [Contributor Name] (Optional)
+- **Bhushan Asati** 
 
 Feel free to contribute to this project! Fork the repository and submit a pull request for review.
 
